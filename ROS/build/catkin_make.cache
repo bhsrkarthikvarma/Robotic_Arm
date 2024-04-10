@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/sunny/Desktop/3DOF_Robotic_Arm/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/sunny/Desktop/3DOF_Robotic_Arm/ROS/install -G Unix Makefiles
